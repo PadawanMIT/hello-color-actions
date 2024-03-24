@@ -3,4 +3,5 @@ describe("My hello", () => {
   test("works", () => {
     expect(hello.hello()).toEqual("Hello from Singapore!");
   });
+  
 });
